@@ -1,0 +1,2 @@
+# Trabalho-one
+Comando usado:
